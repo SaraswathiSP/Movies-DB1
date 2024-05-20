@@ -1,0 +1,15 @@
+.search__results {
+  padding: 20px;
+}
+
+.results__title {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.results__cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
